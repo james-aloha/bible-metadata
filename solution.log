@@ -1,0 +1,114 @@
+
+Groups                TotalChapters  ThousandWords  TestamentNumber  NumberOfBooks
+ReadingGroupID                                                              
+0                         213          170.4                7             16
+1                         167          119.2                3              9
+2                         216          122.4                5             13
+3                         210           79.2                3              7
+4                         203          163.2                4             12
+5                         180          135.4                5              9
+
+Mean = Ideal
+TotalChapters      198.166667
+ThousandWords      131.633333
+TestamentNumber      4.500000
+NumberOfBooks       11.000000
+
+Standard Deviation
+TotalChapters      20.014162
+ThousandWords      33.174066
+TestamentNumber     1.516575
+NumberOfBooks       3.286335
+
+CostDataframe
+                 CostWords  CostChapters  CostTestamentCategory  CostBookCategory
+ReadingGroupID                                                                   
+0                70.135429    104.040000                     75                36
+1                36.479855     81.000000                    100                 9
+2                30.960276     37.617778                     50                 9
+3               134.968666    469.444444                     75                18
+4                84.118742    129.960000                    175                54
+5               313.338333    435.417778                    150                72
+cost Sums
+CostWords                 670.001302
+CostChapters             1257.480000
+CostTestamentCategory     625.000000
+CostBookCategory          198.000000
+
+Group 1
+Judges
+2 Samuel
+1 Kings
+2 Kings
+1 Chronicles
+Lamentations
+Daniel
+Joel
+Micah
+John
+Romans
+Ephesians
+2 Thessalonians
+Hebrews
+1 John
+3 John
+
+Group 2
+Leviticus
+Deuteronomy
+2 Chronicles
+Proverbs
+Hosea
+Obadiah
+Mark
+1 Peter
+2 Peter
+
+Group 3
+Genesis
+Esther
+Job
+Ecclesiastes
+Isaiah
+Amos
+Zephaniah
+Malachi
+Galatians
+Philippians
+Colossians
+James
+Jude
+
+Group 4
+Ruth
+Ezra
+Nehemiah
+Psalms
+1 Thessalonians
+1 Timothy
+Revelation
+
+Group 5
+Exodus
+Numbers
+Joshua
+Song of Solomon
+Ezekiel
+Nahum
+Habakkuk
+Haggai
+Luke
+2 Corinthians
+Philemon
+2 John
+
+Group 6
+1 Samuel
+Jeremiah
+Jonah
+Zechariah
+Matthew
+Acts
+1 Corinthians
+2 Timothy
+Titus
